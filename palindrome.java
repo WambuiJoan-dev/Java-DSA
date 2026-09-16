@@ -17,3 +17,4 @@ class duplicate{
         }
         return true;
     }
+    //Time O(n) Space 0(1)
